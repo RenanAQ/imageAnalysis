@@ -1,0 +1,202 @@
+Parameters min_area 0:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 634
+Number of cans detected from shelfCans-4.jpg: 473
+Number of cans detected from shelfCans-6.jpg: 299
+Number of cans detected from shelfCans4-2.jpg: 217
+Parameters min_area 100:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 39
+Number of cans detected from shelfCans-4.jpg: 38
+Number of cans detected from shelfCans-6.jpg: 31
+Number of cans detected from shelfCans4-2.jpg: 81
+Parameters min_area 200:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 17
+Number of cans detected from shelfCans-4.jpg: 26
+Number of cans detected from shelfCans-6.jpg: 14
+Number of cans detected from shelfCans4-2.jpg: 67
+Parameters min_area 300:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 8
+Number of cans detected from shelfCans-4.jpg: 13
+Number of cans detected from shelfCans-6.jpg: 6
+Number of cans detected from shelfCans4-2.jpg: 54
+Parameters min_area 400:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 5
+Number of cans detected from shelfCans-4.jpg: 6
+Number of cans detected from shelfCans-6.jpg: 5
+Number of cans detected from shelfCans4-2.jpg: 47
+Parameters min_area 500:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 5
+Number of cans detected from shelfCans-4.jpg: 6
+Number of cans detected from shelfCans-6.jpg: 3
+Number of cans detected from shelfCans4-2.jpg: 42
+Parameters min_area 600:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 5
+Number of cans detected from shelfCans-4.jpg: 6
+Number of cans detected from shelfCans-6.jpg: 1
+Number of cans detected from shelfCans4-2.jpg: 35
+Parameters min_area 700:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 5
+Number of cans detected from shelfCans-4.jpg: 6
+Number of cans detected from shelfCans-6.jpg: 1
+Number of cans detected from shelfCans4-2.jpg: 30
+Parameters min_area 800:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 4
+Number of cans detected from shelfCans-4.jpg: 4
+Number of cans detected from shelfCans-6.jpg: 1
+Number of cans detected from shelfCans4-2.jpg: 28
+Parameters min_area 900:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 4
+Number of cans detected from shelfCans-4.jpg: 3
+Number of cans detected from shelfCans-6.jpg: 0
+Number of cans detected from shelfCans4-2.jpg: 26
+Parameters min_area 1000:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 4
+Number of cans detected from shelfCans-4.jpg: 2
+Number of cans detected from shelfCans-6.jpg: 0
+Number of cans detected from shelfCans4-2.jpg: 25
+Parameters min_area 1100:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 3
+Number of cans detected from shelfCans-4.jpg: 2
+Number of cans detected from shelfCans-6.jpg: 0
+Number of cans detected from shelfCans4-2.jpg: 21
+Parameters min_area 1200:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 3
+Number of cans detected from shelfCans-4.jpg: 2
+Number of cans detected from shelfCans-6.jpg: 0
+Number of cans detected from shelfCans4-2.jpg: 20
+Parameters min_area 1300:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 2
+Number of cans detected from shelfCans-4.jpg: 2
+Number of cans detected from shelfCans-6.jpg: 0
+Number of cans detected from shelfCans4-2.jpg: 16
+Parameters min_area 1400:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 2
+Number of cans detected from shelfCans-4.jpg: 2
+Number of cans detected from shelfCans-6.jpg: 0
+Number of cans detected from shelfCans4-2.jpg: 15
+Parameters min_area 1500:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 2
+Number of cans detected from shelfCans-4.jpg: 2
+Number of cans detected from shelfCans-6.jpg: 0
+Number of cans detected from shelfCans4-2.jpg: 15
+Parameters min_area 1600:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 2
+Number of cans detected from shelfCans-4.jpg: 2
+Number of cans detected from shelfCans-6.jpg: 0
+Number of cans detected from shelfCans4-2.jpg: 15
+Parameters min_area 1700:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 2
+Number of cans detected from shelfCans-4.jpg: 2
+Number of cans detected from shelfCans-6.jpg: 0
+Number of cans detected from shelfCans4-2.jpg: 13
+Parameters min_area 1800:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 2
+Number of cans detected from shelfCans-4.jpg: 2
+Number of cans detected from shelfCans-6.jpg: 0
+Number of cans detected from shelfCans4-2.jpg: 11
+Parameters min_area 1900:
+Parameters max_area 10000:
+Number of cans detected from shelfCans-2.jpg: 2
+Number of cans detected from shelfCans-4.jpg: 2
+Number of cans detected from shelfCans-6.jpg: 0
+Number of cans detected from shelfCans4-2.jpg: 8
+Array2
+Parameters min_area 0:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 99
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 134
+Parameters min_area 100:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 28
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 58
+Parameters min_area 200:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 17
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 39
+Parameters min_area 300:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 14
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 31
+Parameters min_area 400:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 11
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 31
+Parameters min_area 500:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 9
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 29
+Parameters min_area 600:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 9
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 24
+Parameters min_area 700:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 9
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 21
+Parameters min_area 800:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 8
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 15
+Parameters min_area 900:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 8
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 13
+Parameters min_area 1000:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 7
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 9
+Parameters min_area 1100:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 6
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 6
+Parameters min_area 1200:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 5
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 5
+Parameters min_area 1300:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 5
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 4
+Parameters min_area 1400:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 5
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 4
+Parameters min_area 1500:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 5
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 4
+Parameters min_area 1600:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 5
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 4
+Parameters min_area 1700:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 5
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 4
+Parameters min_area 1800:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 4
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 4
+Parameters min_area 1900:
+Parameters max_area 10000:
+Number of cans detected from ./jpegmini_optimized-2/IMG_4974.jpg: 3
+Number of cans detected from ./jpegmini_optimized-2/IMG_4975.jpg: 4
+
